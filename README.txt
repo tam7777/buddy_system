@@ -2,6 +2,9 @@
 
 Replicating simple buddy system, memory management and allocation algorithm
 
+3 commands: 'a' for allocation 'f' for free and 'q' to quit
+Need to put number after 'a' and 'f' for space you want to allocate/free
+
 How to run (command line):
 gcc buddy.cc
 ./a.out
