@@ -4,7 +4,7 @@ Replicating simple buddy system, memory management and allocation algorithm
 
 How to run (command line):
 gcc buddy.cc
-./a.out\n
+./a.out
 
 Enviroment:
 g++ 9.4.0 (might not work in gcc)
