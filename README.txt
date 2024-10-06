@@ -14,9 +14,6 @@ g++ 9.4.0 (might not work in gcc)
 Ubuntu 9.4.0-1ubuntu1~20.04.1
 
 Result:
-tam7777@DESKTOP-0I82836 ~/dev/school/OS/buddy_system$ g++ buddy.cc
-tam7777@DESKTOP-0I82836 ~/dev/school/OS/buddy_system$ ./a.out
-
 (splitting 0/64)
 (splitting 0/32)
 (splitting 0/16)
