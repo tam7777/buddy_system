@@ -1,4 +1,4 @@
-# buddy_system
+buddy_system
 
 Replicating simple buddy system, memory management and allocation algorithm
 
